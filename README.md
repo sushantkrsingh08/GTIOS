@@ -1,2 +1,2 @@
 # GTIOS
-Operating Systems development targeted fro Arm aarch64 platforms. 
+Operating Systems development targeted for Arm aarch64 platforms. 
